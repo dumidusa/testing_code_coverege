@@ -18,6 +18,6 @@
   "homepage": "https://github.com/dumidusa/testing_code_coverege#readme",
   "description": "",
   "devDependencies": {
-    "jest": "^30.4.2"
+    "jest": "^26.0.0"
   }
 }
