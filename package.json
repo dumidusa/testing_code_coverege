@@ -1,0 +1,23 @@
+{
+  "name": "testing_code_coverege",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumidusa/testing_code_coverege.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dumidusa/testing_code_coverege/issues"
+  },
+  "homepage": "https://github.com/dumidusa/testing_code_coverege#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
