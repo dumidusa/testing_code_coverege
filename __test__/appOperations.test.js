@@ -13,3 +13,6 @@ test("sub 2 values ", ()=>{
     expect(appOperations.substracttracting(15, 5)).toBe(10);
 });
 
+test("devide 2 values ",()=>{
+    expect(appOperations.devide(15,5)).tobe(3);
+});
