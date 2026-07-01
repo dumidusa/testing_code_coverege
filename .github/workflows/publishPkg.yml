@@ -13,7 +13,7 @@ jobs:
             packages: write
         steps:
             - uses: actions/checkout@v4
-            - uses: actions/setups-node@v4
+            - uses: actions/setup-node@v4
               with:
                 node-version: 20
                 registry-url: 'https://npm.pkg.guthub.com'
