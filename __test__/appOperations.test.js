@@ -16,3 +16,5 @@ test("sub 2 values ", ()=>{
 test("devide 2 values ",()=>{
     expect(appOperations.devide(15,5)).tobe(3);
 });
+
+//change added func for handle input values
